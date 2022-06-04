@@ -1,1 +1,5 @@
-{"Vasyunina Olga\nI don't have any pets\nSalary: 1450":null}
+{
+  "name": "Vasyunina Olga",
+  "pets": "I don't have any pets",
+  "Salary": 1450
+}
